@@ -30,5 +30,3 @@ const pinValidator = (input) => {
 module.exports = {
   pinValidator
 }
-
-//javiercastaneda303@gmail.com
